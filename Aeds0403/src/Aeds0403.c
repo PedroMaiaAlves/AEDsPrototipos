@@ -81,8 +81,7 @@ int main(void) {
 		cont++;
 	} while (cont == 3);
 
-	return 0;
-
+	
 	for (cont = 1; cont <=3; cont++) {
 		printf("Entre com os dois números para serem somados");
 		fflush(stdout);
@@ -91,4 +90,5 @@ int main(void) {
 		result = x + y;
 		printf("O resoltado da soma é: %d\n", result);
 	}
+	return 0;
 }
