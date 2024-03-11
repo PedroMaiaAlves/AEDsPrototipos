@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : prj.c
- Author      : 
+ Author      : Pedro Henrique Maia Alves
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
